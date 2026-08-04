@@ -10,6 +10,12 @@
     "picard": "/picard.mp3",
     "when": "/when.mp3",
     "bridge": "/bridge.mp3",
+    "babble": [
+        "/babble/babble.mp3"
+    ],
+    "hold": [
+        "/hold/waiting.mp3"
+    ],
     "spitfire": [
         "/spitfire/1.mp3",
         "/spitfire/2.mp3"
@@ -20,4 +26,73 @@
         "/3d_printer/3.mp3",
         "/3d_printer/4.mp3"
     ]
+    "choral": [
+        "/choral00.mp3",
+        "/choral01.mp3",
+        "/choral02.mp3",
+        "/choral03.mp3",
+        "/choral04.mp3",
+        "/choral05.mp3",
+        "/choral06.mp3",
+        "/choral07.mp3",
+        "/choral08.mp3",
+        "/choral09.mp3",
+        "/choral10.mp3",
+        "/choral11.mp3",
+        "/choral12.mp3",
+        "/choral13.mp3",
+        "/choral14.mp3" 
+    ],
+    "place-to-be": [
+        "sample00.mp3",
+        "sample01.mp3",
+        "sample02.mp3",
+        "sample03.mp3",
+        "sample04.mp3",
+        "sample05.mp3",
+        "sample06.mp3",
+        "sample07.mp3",
+        "sample08.mp3",
+        "sample09.mp3",
+        "sample10.mp3",
+        "sample11.mp3"
+    ],
+  "MkIIFlute": {
+    "f5": "/samples/MkII Flute/F5.wav",
+    "f4": "/samples/MkII Flute/F4.wav",
+    "g2": "/samples/MkII Flute/G2.wav",
+    "g3": "/samples/MkII Flute/G3.wav",
+    "f3": "/samples/MkII Flute/F3.wav",
+    "g4": "/samples/MkII Flute/G4.wav",
+    "a2": "/samples/MkII Flute/A2.wav",
+    "a3": "/samples/MkII Flute/A3.wav",
+    "a4": "/samples/MkII Flute/A4.wav",
+    "c3": "/samples/MkII Flute/C3.wav",
+    "d#3": "/samples/MkII Flute/D#3.wav",
+    "b4": "/samples/MkII Flute/B4.wav",
+    "f#3": "/samples/MkII Flute/F#3.wav",
+    "c5": "/samples/MkII Flute/C5.wav",
+    "d#5": "/samples/MkII Flute/D#5.wav",
+    "d#4": "/samples/MkII Flute/D#4.wav",
+    "c4": "/samples/MkII Flute/C4.wav",
+    "b2": "/samples/MkII Flute/B2.wav",
+    "f#4": "/samples/MkII Flute/F#4.wav",
+    "b3": "/samples/MkII Flute/B3.wav",
+    "g#2": "/samples/MkII Flute/G#2.wav",
+    "d4": "/samples/MkII Flute/D4.wav",
+    "a#4": "/samples/MkII Flute/A#4.wav",
+    "d5": "/samples/MkII Flute/D5.wav",
+    "g#3": "/samples/MkII Flute/G#3.wav",
+    "e3": "/samples/MkII Flute/E3.wav",
+    "c#5": "/samples/MkII Flute/C#5.wav",
+    "c#4": "/samples/MkII Flute/C#4.wav",
+    "g#4": "/samples/MkII Flute/G#4.wav",
+    "a#2": "/samples/MkII Flute/A#2.wav",
+    "a#3": "/samples/MkII Flute/A#3.wav",
+    "d3": "/samples/MkII Flute/D3.wav",
+    "e5": "/samples/MkII Flute/E5.wav",
+    "c#3": "/samples/MkII Flute/C#3.wav",
+    "e4": "/samples/MkII Flute/E4.wav"
+  }
+
 }
